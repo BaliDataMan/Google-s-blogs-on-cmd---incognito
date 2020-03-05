@@ -6,7 +6,7 @@ Jokes apart!!
 
 **Step 1** - pip install -r requirements.txt
 
-**Step 2** - python google_blogs_Scraper.py
+**Step 2** - python google_blogs.py
 
 **Step 3** - say "Yes" if you want to read detailed blog - it will present total # of blogs..
 <img src = "images/step3.png" width = "">
